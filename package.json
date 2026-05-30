@@ -2,6 +2,7 @@
   "name": "lulux-auth",
   "version": "2.0.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@upstash/redis": "^1.28.0"
   }
